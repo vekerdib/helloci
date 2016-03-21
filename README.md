@@ -1,4 +1,4 @@
-helloci
+helloci by Zoli
 =======
 
 Test projects for Git training
